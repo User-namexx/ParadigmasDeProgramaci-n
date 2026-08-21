@@ -1,1 +1,0 @@
-# ParadigmasDeProgramaci-n
